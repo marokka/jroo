@@ -78,34 +78,35 @@
                     </div>
                   </div>
                 </div> -->
-                <div class="shop-sidebar_size">
-                  <div class="size_top mini-tab-title underline">
-                    <h2 class="title">Popular size</h2>
-                  </div>
-                  <div class="size_bottom">
-                    <form>
-                      <div class="size">
-                        <input type="checkbox" id="large">
-                        <label for="large">Large</label>
-                      </div>
-                      <div class="size">
-                        <input type="checkbox" id="medium">
-                        <label for="medium">Medium</label>
-                      </div>
-                      <div class="size">
-                        <input type="checkbox" id="small">
-                        <label for="small">Small</label>
-                      </div>
-                      <div class="size">
-                        <input type="checkbox" id="tiny">
-                        <label for="tiny">Tiny</label>
-                      </div>
-                    </form>
-                  </div>
-                </div>
+<!--                <div class="shop-sidebar_size">-->
+<!--                  <div class="size_top mini-tab-title underline">-->
+<!--                    <h2 class="title">-->
+<!--                        Популярный размер</h2>-->
+<!--                  </div>-->
+<!--                  <div class="size_bottom">-->
+<!--                    <form>-->
+<!--                      <div class="size">-->
+<!--                        <input type="checkbox" id="large">-->
+<!--                        <label for="large">Large</label>-->
+<!--                      </div>-->
+<!--                      <div class="size">-->
+<!--                        <input type="checkbox" id="medium">-->
+<!--                        <label for="medium">Medium</label>-->
+<!--                      </div>-->
+<!--                      <div class="size">-->
+<!--                        <input type="checkbox" id="small">-->
+<!--                        <label for="small">Small</label>-->
+<!--                      </div>-->
+<!--                      <div class="size">-->
+<!--                        <input type="checkbox" id="tiny">-->
+<!--                        <label for="tiny">Tiny</label>-->
+<!--                      </div>-->
+<!--                    </form>-->
+<!--                  </div>-->
+<!--                </div>-->
                 <div class="shop-sidebar_tag">
                   <div class="tag_top mini-tab-title underline">
-                    <h2 class="title">Product tag</h2>
+                    <h2 class="title">Тег продукта</h2>
                   </div>
                   <div class="tag_bottom"><a class="tag-btn" href="shop_grid+list_3col.html">organic</a><a class="tag-btn" href="shop_grid+list_3col.html">vegatable</a><a class="tag-btn" href="shop_grid+list_3col.html">fruits</a><a class="tag-btn" href="shop_grid+list_3col.html">fresh meat</a><a class="tag-btn" href="shop_grid+list_3col.html">fastfood</a><a class="tag-btn" href="shop_grid+list_3col.html">natural</a></div>
                 </div>
@@ -122,7 +123,7 @@
                       </div>
                       <div class="col-6 text-right">
                         <div id="show-filter-sidebar">
-                          <h5> <i class="fas fa-bars"></i>Show sidebar</h5>
+                          <h5> <i class="fas fa-bars"></i>Показать Категории</h5>
                         </div>
                       </div>
                       <div class="col-12 col-xl-8">
